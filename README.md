@@ -1,3 +1,3 @@
-# Github API Test
+# Github-API-Test
 
 Create repositories with the Github API.
