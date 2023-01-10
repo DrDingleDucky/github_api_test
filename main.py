@@ -3,10 +3,10 @@ from pprint import pprint
 import requests
 
 # Your personal access token.
-token = "YOUR_PERSONAL_ACCESS_TOKEN"
+token = "YOUR-PERSONAL-ACCESS-TOKEN"
 
 # Repository Settings
-name = "Test_Repository_1"
+name = "Test-Repository-1"
 description = "This repository was created with an API call."
 include_all_branches = False
 private = False
