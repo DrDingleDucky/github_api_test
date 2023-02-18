@@ -2,7 +2,7 @@ from pprint import pprint
 
 import requests
 
-token = "YOUR-PERSONAL-ACCESS-TOKEN"
+token = "your_personal_access_token"
 
 repo_name = "Test-Repository-1"
 repo_description = "This repository was created with an API call."
