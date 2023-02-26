@@ -1,4 +1,4 @@
-from pprint import pprint
+import pprint
 
 import requests
 
@@ -25,8 +25,8 @@ data = {
 response = requests.post(url, json=data, headers=headers)
 
 if response.status_code == 200:
-    print(f"Authentication successful! - {response}")
+    print(f"authentication successful - {response}")
 else:
-    print(f"Authentication failed. - {response}")
+    print(f"authentication failed - {response}")
 
-pprint(response.json())
+pprint.pprint(response.json())

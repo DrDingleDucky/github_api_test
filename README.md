@@ -4,9 +4,9 @@ Create repositories with the Github API.
 
 ## Instructions
 
-### Installation
+### Install Dependencies
 
-Install the necessary imports.
+Install the necessary dependencies.
 
 ```python
 pip install -r requirements.txt
