@@ -4,7 +4,7 @@ import requests
 
 token = "your_personal_access_token"
 
-repo_name = "Test-Repository-1"
+repo_name = "test_repository_1"
 repo_description = "This repository was created with an API call."
 include_all_branches = False
 private = False
